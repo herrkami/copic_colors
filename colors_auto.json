@@ -3,2148 +3,3616 @@
         "#FFFFFF",
         "#FFFFFF",
         "#FFFFFF",
-        "Colorless Blender"
+        "Colorless Blender",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "100": [
         "#4D5259",
         "#464950",
         "#484B50",
-        "Black"
+        "Black",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "110": [
         "#53565C",
         "#484B51",
         "#45474B",
-        "Special Black"
+        "Special Black",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B00": [
         "#D7F2F1",
         "#BCE9EB",
         "#A7E0E5",
-        "Frost Blue"
+        "Frost Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B000": [
         "#DAF1EE",
         "#C0E9E5",
         "#B6E7E4",
-        "Pale Porcelain Blue"
+        "Pale Porcelain Blue",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "B0000": [
         "#F0FBF4",
         "#E9F8F1",
         "#DEF4ED",
-        "Pale Celestine"
+        "Pale Celestine",
+        [
+            "sketch"
+        ]
     ],
     "B01": [
         "#B6EEF0",
         "#8FE0E8",
         "#76D2E0",
-        "Mint Blue"
+        "Mint Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B02": [
         "#7DCFE9",
         "#5AB8DF",
         "#49A9D6",
-        "Robin\u2019s Egg Blue"
+        "Robin\u2019s Egg Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B04": [
         "#44BED2",
         "#209EBE",
         "#1189AC",
-        "Tahitian Blue"
+        "Tahitian Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B05": [
         "#339FD2",
         "#2182BA",
         "#1D70A7",
-        "Process Blue"
+        "Process Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B06": [
         "#397BC2",
         "#2D5FA7",
         "#264D8E",
-        "Peacock Blue"
+        "Peacock Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B12": [
         "#C1E1F1",
         "#A0CBEA",
         "#89BBE3",
-        "Ice Blue"
+        "Ice Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B14": [
         "#639FDB",
         "#4C84C9",
         "#4477B7",
-        "Light Blue"
+        "Light Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B16": [
         "#2E6CA7",
         "#21548C",
         "#1A4275",
-        "Cyanine Blue"
+        "Cyanine Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B18": [
         "#383EA0",
         "#2D3184",
         "#27286B",
-        "Lapis Lazuli"
+        "Lapis Lazuli",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B21": [
         "#C2D7F1",
         "#A6C2EA",
         "#98B4E5",
-        "Baby Blue"
+        "Baby Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B23": [
         "#7D8ED6",
         "#606EC0",
         "#5663B5",
-        "Phthalo Blue"
+        "Phthalo Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B24": [
         "#8AA2EB",
         "#6C87DE",
         "#5C77D2",
-        "Sky"
+        "Sky",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B26": [
         "#4753A5",
         "#313885",
         "#292F73",
-        "Cobalt Blue"
+        "Cobalt Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B28": [
         "#3233A9",
         "#292687",
         "#26216E",
-        "Royal Blue"
+        "Royal Blue",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "B29": [
         "#3B239B",
         "#331E7C",
         "#2F1B65",
-        "Ultramarine"
+        "Ultramarine",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B32": [
         "#ADD2FB",
         "#94BFFB",
         "#85B3FA",
-        "Pale Blue"
+        "Pale Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B34": [
         "#6781A3",
         "#4F678B",
         "#44597A",
-        "Manganese Blue"
+        "Manganese Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B37": [
         "#2C4F88",
         "#203867",
         "#1B2B50",
-        "Antwerp Blue"
+        "Antwerp Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B39": [
         "#282759",
         "#23224C",
         "#1F1E3F",
-        "Prussian Blue"
+        "Prussian Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B41": [
         "#CDDBE6",
         "#BBCCE1",
         "#A5BFDB",
-        "Powder Blue"
+        "Powder Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "B45": [
         "#8B96C9",
         "#6E79B4",
         "#4D5C96",
-        "Smoky Blue"
+        "Smoky Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "B52": [
         "#90B2BC",
         "#70949F",
         "#557986",
-        "Soft Greenish Blue"
+        "Soft Greenish Blue",
+        [
+            "sketch"
+        ]
     ],
     "B60": [
         "#E8E8F4",
         "#DED9F1",
         "#D4CAED",
-        "Pale Blue Gray"
+        "Pale Blue Gray",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "B63": [
         "#C0BEEB",
         "#A5A1DF",
         "#8E88CD",
-        "Light Hydrangea"
+        "Light Hydrangea",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "B66": [
         "#665BB9",
         "#51469F",
         "#443988",
-        "Clematis"
+        "Clematis",
+        [
+            "sketch"
+        ]
     ],
     "B69": [
         "#3C218A",
         "#331C73",
         "#29174F",
-        "Stratospheric Blue"
+        "Stratospheric Blue",
+        [
+            "sketch"
+        ]
     ],
     "B79": [
         "#4B2D86",
         "#3B2666",
         "#32234C",
-        "Iris"
+        "Iris",
+        [
+            "sketch"
+        ]
     ],
     "B91": [
         "#E8EBEC",
         "#E5E9E9",
         "#DEDFE1",
-        "Pale Grayish Blue"
+        "Pale Grayish Blue",
+        [
+            "sketch"
+        ]
     ],
     "B93": [
         "#BCC7D9",
         "#9EAAC4",
         "#828EAD",
-        "Light Crockery Blue"
+        "Light Crockery Blue",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "B95": [
         "#809DBA",
         "#637FA0",
         "#4F6887",
-        "Light Grayish Cobalt"
+        "Light Grayish Cobalt",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "B97": [
         "#47607D",
         "#364A66",
         "#27364B",
-        "Night Blue"
+        "Night Blue",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "B99": [
         "#51627E",
         "#475268",
         "#44495B",
-        "Agate"
+        "Agate",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG000": [
         "#D7F3F2",
         "#CDF2F1",
         "#BFF1F2",
-        "Pale Aqua"
+        "Pale Aqua",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG0000": [
         "#F0FAF4",
         "#E6F7F0",
         "#D8F2EC",
-        "Snow Green"
+        "Snow Green",
+        [
+            "sketch"
+        ]
     ],
     "BG01": [
         "#B0EAE7",
         "#91DDD9",
         "#6FC9D0",
-        "Aqua Blue"
+        "Aqua Blue",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG02": [
         "#9DE2E7",
         "#80D4DC",
         "#68C3D3",
-        "New Blue"
+        "New Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "BG05": [
         "#6DC7DB",
         "#57B1CB",
         "#469ABA",
-        "Holiday Blue"
+        "Holiday Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG07": [
         "#539CB6",
         "#4A8AA5",
         "#437C95",
-        "Petroleum Blue"
+        "Petroleum Blue",
+        [
+            "sketch"
+        ]
     ],
     "BG09": [
         "#5CA3B9",
         "#4B879C",
         "#437186",
-        "Blue Green"
+        "Blue Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG10": [
         "#DAF3E6",
         "#C8EEDC",
         "#C1EDDB",
-        "Cool Shadow"
+        "Cool Shadow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG11": [
         "#CBF2E3",
         "#B4EBD6",
         "#AFECD9",
-        "Moon White"
+        "Moon White",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "BG13": [
         "#9DE3D8",
         "#78CEC0",
         "#67C1B5",
-        "Mint Green"
+        "Mint Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG15": [
         "#7CD1D9",
         "#5FBAC6",
         "#5DB5C4",
-        "Aqua"
+        "Aqua",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG18": [
         "#6FA887",
         "#4A8264",
         "#386751",
-        "Teal Blue"
+        "Teal Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "BG23": [
         "#99DAAF",
         "#67BD85",
         "#4FAD75",
-        "Coral Sea"
+        "Coral Sea",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG32": [
         "#A1DEBD",
         "#77C79C",
         "#5FB78F",
-        "Aqua Mint"
+        "Aqua Mint",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "BG34": [
         "#A0DBA9",
         "#83C88F",
         "#65B277",
-        "Horizon Green"
+        "Horizon Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG45": [
         "#73C8BD",
         "#4EB5AB",
         "#0FA19D",
-        "Nile Blue"
+        "Nile Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "BG49": [
         "#188E72",
         "#117661",
         "#126455",
-        "Duck Blue"
+        "Duck Blue",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG53": [
         "#AAE1DE",
         "#8AD2D0",
         "#6BBDC1",
-        "Ice Mint"
+        "Ice Mint",
+        [
+            "sketch"
+        ]
     ],
     "BG57": [
         "#7CBDBF",
         "#67AAAF",
         "#549097",
-        "Jasper"
+        "Jasper",
+        [
+            "sketch"
+        ]
     ],
     "BG70": [
         "#F1F2F4",
         "#ECEBF0",
         "#E3E1E8",
-        "Ocean Mist"
+        "Ocean Mist",
+        [
+            "sketch"
+        ]
     ],
     "BG72": [
         "#A0B2A1",
         "#7A907F",
         "#5E7563",
-        "Ice Ocean"
+        "Ice Ocean",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG75": [
         "#6B8077",
         "#435750",
         "#324541",
-        "Abyss Green"
+        "Abyss Green",
+        [
+            "sketch"
+        ]
     ],
     "BG78": [
         "#365046",
         "#213932",
         "#152E28",
-        "Bronze"
+        "Bronze",
+        [
+            "sketch"
+        ]
     ],
     "BG90": [
         "#EDEFE3",
         "#E5E8D7",
         "#D8DBC6",
-        "Gray Sky"
+        "Gray Sky",
+        [
+            "sketch"
+        ]
     ],
     "BG93": [
         "#94987C",
         "#797E64",
         "#6C735B",
-        "Green Gray"
+        "Green Gray",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG96": [
         "#77765C",
         "#535745",
         "#41483C",
-        "Bush"
+        "Bush",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BG99": [
         "#5E5F4B",
         "#3D4336",
         "#2E382F",
-        "Flagstone Blue"
+        "Flagstone Blue",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "BV00": [
         "#D5C6CC",
         "#C4ACBA",
         "#BBA0B1",
-        "Mauve Shadow"
+        "Mauve Shadow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV000": [
         "#EAE0EA",
         "#DDC9DD",
         "#D1B7D2",
-        "Iridescent Mauve"
+        "Iridescent Mauve",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV0000": [
         "#F3F3F3",
         "#EEECF1",
         "#E7E4ED",
-        "Pale Thistle"
+        "Pale Thistle",
+        [
+            "sketch"
+        ]
     ],
     "BV01": [
         "#CDBBD2",
         "#C0A9C7",
         "#AB90B6",
-        "Viola"
+        "Viola",
+        [
+            "sketch"
+        ]
     ],
     "BV02": [
         "#D3B9D6",
         "#B696BB",
         "#9C7CA4",
-        "Prune"
+        "Prune",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV04": [
         "#72659A",
         "#43396E",
         "#342A60",
-        "Blue Berry"
+        "Blue Berry",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV08": [
         "#684E6E",
         "#4F3855",
         "#37253F",
-        "Blue Violet"
+        "Blue Violet",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV11": [
         "#B596A5",
         "#927281",
         "#7D5E6D",
-        "Soft Violet"
+        "Soft Violet",
+        [
+            "sketch"
+        ]
     ],
     "BV13": [
         "#9679A8",
         "#694E7B",
         "#563D69",
-        "Hydrangea Blue"
+        "Hydrangea Blue",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV17": [
         "#97719D",
         "#694B73",
         "#55395F",
-        "Deep Reddish Blue"
+        "Deep Reddish Blue",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV20": [
         "#CBC1C7",
         "#B1A3AC",
         "#95808F",
-        "Dull Lavender"
+        "Dull Lavender",
+        [
+            "sketch"
+        ]
     ],
     "BV23": [
         "#D3C8D0",
         "#AE9CAA",
         "#988392",
-        "Grayish Lavender"
+        "Grayish Lavender",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV25": [
         "#6E626D",
         "#483C48",
         "#3D323D",
-        "Grayish Violet"
+        "Grayish Violet",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV29": [
         "#3A303B",
         "#2F2530",
         "#1C141E",
-        "Slate"
+        "Slate",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV31": [
         "#CEC3CF",
         "#BEACBF",
         "#B3A0B7",
-        "Pale Lavender"
+        "Pale Lavender",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "BV34": [
         "#9D96BB",
         "#82779F",
         "#695E83",
-        "Bluebell"
+        "Bluebell",
+        [
+            "sketch"
+        ]
     ],
     "C-0": [
         "#F2F7F1",
         "#E4E8E5",
         "#DBDFDE",
-        "Cool Gray No. 0"
+        "Cool Gray No. 0",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "C-00": [
         "#F4F8F1",
         "#EDF0E9",
         "#E8EBE5",
-        "Cool Gray No. 00"
+        "Cool Gray No. 00",
+        [
+            "sketch"
+        ]
     ],
     "C-1": [
         "#D6DADD",
         "#CDD2D6",
         "#BEC3C9",
-        "Cool Gray No. 1"
+        "Cool Gray No. 1",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "C-10": [
         "#4B4F55",
         "#484B51",
         "#46464C",
-        "Cool Gray No. 10"
+        "Cool Gray No. 10",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "C-2": [
         "#EBEFED",
         "#C1C6CD",
         "#ACB0BB",
-        "Cool Gray No. 2"
+        "Cool Gray No. 2",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "C-3": [
         "#DBE0E5",
         "#BEC4CF",
         "#AEB5C2",
-        "Cool Gray No. 3"
+        "Cool Gray No. 3",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "C-4": [
         "#B0B8C4",
         "#949BAC",
         "#82899B",
-        "Cool Gray No. 4"
+        "Cool Gray No. 4",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "C-5": [
         "#AAAEBA",
         "#8C8F9E",
         "#777A89",
-        "Cool Gray No. 5"
+        "Cool Gray No. 5",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "C-6": [
         "#979DAB",
         "#818794",
         "#565A66",
-        "Cool Gray No. 6"
+        "Cool Gray No. 6",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "C-7": [
         "#939AA8",
         "#575C67",
         "#4A4E58",
-        "Cool Gray No. 7"
+        "Cool Gray No. 7",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "C-8": [
         "#5E626E",
         "#52565F",
         "#45484F",
-        "Cool Gray No. 8"
+        "Cool Gray No. 8",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "C-9": [
         "#525763",
         "#4C505A",
         "#484C52",
-        "Cool Gray No. 9"
+        "Cool Gray No. 9",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E00": [
         "#FEEDC5",
         "#FEE3B0",
         "#FED99B",
-        "Cotton Pearl"
+        "Cotton Pearl",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E000": [
         "#FBF5E2",
         "#FDEDD0",
         "#FDE7C4",
-        "Pale Fruit Pink"
+        "Pale Fruit Pink",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E0000": [
         "#F6F6EA",
         "#F6F2DF",
         "#F6EFD8",
-        "Floral White"
+        "Floral White",
+        [
+            "sketch"
+        ]
     ],
     "E01": [
         "#FDD9BC",
         "#FEC69D",
         "#FDB282",
-        "Pink Flamingo"
+        "Pink Flamingo",
+        [
+            "sketch"
+        ]
     ],
     "E02": [
         "#FDB98C",
         "#FDA671",
         "#FD975E",
-        "Fruit Pink"
+        "Fruit Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E04": [
         "#C68C8C",
         "#AD7273",
         "#9F6667",
-        "Lipstick Natural"
+        "Lipstick Natural",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E07": [
         "#C7514D",
         "#B04747",
         "#933D40",
-        "Light Mahogany"
+        "Light Mahogany",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E08": [
         "#DE614E",
         "#C54F44",
         "#AF4740",
-        "Brown"
+        "Brown",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E09": [
         "#E0604D",
         "#C74E42",
         "#B1463E",
-        "Burnt Sienna"
+        "Burnt Sienna",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E11": [
         "#FEE7B1",
         "#FDD793",
         "#FDC173",
-        "Barley Beige"
+        "Barley Beige",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E13": [
         "#EDA077",
         "#E28861",
         "#CE6D4D",
-        "Light Suntan"
+        "Light Suntan",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E15": [
         "#DC9474",
         "#CB7F65",
         "#B66A55",
-        "Dark Suntan"
+        "Dark Suntan",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E17": [
         "#CD7658",
         "#B25F49",
         "#954C3E",
-        "Reddish Brass"
+        "Reddish Brass",
+        [
+            "sketch"
+        ]
     ],
     "E18": [
         "#AF594C",
         "#8C4A44",
         "#6B4242",
-        "Copper"
+        "Copper",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E19": [
         "#B24A3D",
         "#97403A",
         "#803C3B",
-        "Redwood"
+        "Redwood",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E21": [
         "#F9D8AC",
         "#F8C390",
         "#F5B47F",
-        "Soft Sun"
+        "Soft Sun",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E23": [
         "#E4A671",
         "#CA8454",
         "#BE784E",
-        "Hazelnut"
+        "Hazelnut",
+        [
+            "sketch"
+        ]
     ],
     "E25": [
         "#DD9672",
         "#BF775A",
         "#A05D4B",
-        "Caribe Cocoa"
+        "Caribe Cocoa",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E27": [
         "#B1684E",
         "#8D4D3F",
         "#77463E",
-        "Milk Chocolate"
+        "Milk Chocolate",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E29": [
         "#854A40",
         "#6E413C",
         "#553D3C",
-        "Burnt Umber"
+        "Burnt Umber",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E30": [
         "#F8F1DE",
         "#F8E6C6",
         "#F5D5A7",
-        "Bisque"
+        "Bisque",
+        [
+            "sketch"
+        ]
     ],
     "E31": [
         "#EBD1A9",
         "#DFBB8C",
         "#D1A779",
-        "Brick Beige"
+        "Brick Beige",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E33": [
         "#E9B689",
         "#D5956B",
         "#C47F5B",
-        "Sand"
+        "Sand",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E34": [
         "#E4B587",
         "#D49D72",
         "#BF845F",
-        "Toast"
+        "Toast",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E35": [
         "#D49F6C",
         "#BE875C",
         "#A5704F",
-        "Chamois"
+        "Chamois",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E37": [
         "#BB7E55",
         "#A46B4D",
         "#885A47",
-        "Sepia"
+        "Sepia",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E39": [
         "#C47F5A",
         "#AE6C51",
         "#915A4A",
-        "Leather"
+        "Leather",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E40": [
         "#E3D8C1",
         "#D9CAAF",
         "#D1C1A4",
-        "Brick White"
+        "Brick White",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E41": [
         "#F5ECD2",
         "#F2E1C1",
         "#EBD0A7",
-        "Pearl White"
+        "Pearl White",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E42": [
         "#E9D9B6",
         "#E1C9A1",
         "#D3B68E",
-        "Sand White"
+        "Sand White",
+        [
+            "sketch"
+        ]
     ],
     "E43": [
         "#DAC8A9",
         "#C1AA89",
         "#AB9273",
-        "Dull Ivory"
+        "Dull Ivory",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E44": [
         "#BFA06F",
         "#8F6E46",
         "#826340",
-        "Clay"
+        "Clay",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E47": [
         "#8E7263",
         "#755F54",
         "#6A574F",
-        "Dark Brown"
+        "Dark Brown",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E49": [
         "#8C7468",
         "#75625B",
         "#4B4643",
-        "Dark Bark"
+        "Dark Bark",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E50": [
         "#FBF7E1",
         "#FCF2D3",
         "#FCEBBD",
-        "Egg Shell"
+        "Egg Shell",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E51": [
         "#FDF0D0",
         "#FDE7B7",
         "#FEDB9D",
-        "Milky White"
+        "Milky White",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E53": [
         "#FCE9CE",
         "#FBD8B0",
         "#FAC799",
-        "Raw Silk"
+        "Raw Silk",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E55": [
         "#ECC078",
         "#E6A75D",
         "#DD9148",
-        "Light Camel"
+        "Light Camel",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "E57": [
         "#BD8E6B",
         "#A27559",
         "#7F5C4D",
-        "Light Walnut"
+        "Light Walnut",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E59": [
         "#936D5B",
         "#75584F",
         "#67514B",
-        "Walnut"
+        "Walnut",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E70": [
         "#E7DBD3",
         "#DAC7C0",
         "#C8B0A8",
-        "Ash Rose"
+        "Ash Rose",
+        [
+            "sketch"
+        ]
     ],
     "E71": [
         "#D9C5BE",
         "#C5ACA5",
         "#A88D87",
-        "Champagne"
+        "Champagne",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E74": [
         "#B9A29C",
         "#9B837F",
         "#826D6B",
-        "Cocoa Brown"
+        "Cocoa Brown",
+        [
+            "sketch"
+        ]
     ],
     "E77": [
         "#8A726E",
         "#7B6664",
         "#615352",
-        "Maroon"
+        "Maroon",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "E79": [
         "#836D6A",
         "#6B5A5A",
         "#574E4D",
-        "Cashew"
+        "Cashew",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E81": [
         "#EEEBD0",
         "#E6E0BB",
         "#D8CFA1",
-        "Ivory"
+        "Ivory",
+        [
+            "sketch"
+        ]
     ],
     "E84": [
         "#CBBA88",
         "#B29F6D",
         "#93845A",
-        "Khaki "
+        "Khaki ",
+        [
+            "sketch"
+        ]
     ],
     "E87": [
         "#8E7D5C",
         "#74674F",
         "#595348",
-        "Fig"
+        "Fig",
+        [
+            "sketch"
+        ]
     ],
     "E89": [
         "#7A6D56",
         "#625B4E",
         "#504D47",
-        "Pecan"
+        "Pecan",
+        [
+            "sketch"
+        ]
     ],
     "E93": [
         "#FED9BD",
         "#FEC5A1",
         "#FDB087",
-        "Tea Rose"
+        "Tea Rose",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E95": [
         "#FDD9A5",
         "#FCC489",
         "#F79B61",
-        "Tea Orange"
+        "Tea Orange",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "E97": [
         "#F6B47A",
         "#EA905D",
         "#CE6A48",
-        "Deep Orange"
+        "Deep Orange",
+        [
+            "sketch"
+        ]
     ],
     "E99": [
         "#CF8F5D",
         "#BA7851",
         "#975D48",
-        "Baked Clay"
+        "Baked Clay",
+        [
+            "sketch"
+        ]
     ],
     "FB2": [
         "#4F7DBC",
         "#3463AF",
         "#2452A1",
-        "Fluorescent Dull Blue"
+        "Fluorescent Dull Blue",
+        [
+            "sketch"
+        ]
     ],
     "FBG2": [
         "#A7CED2",
         "#83BCC3",
         "#5DA6B2",
-        "Fluorescent Dull Blue Green"
+        "Fluorescent Dull Blue Green",
+        [
+            "sketch"
+        ]
     ],
     "FRV1": [
         "#FD95C7",
         "#FD7BAE",
         "#FD6998",
-        "Fluorescent Pink"
+        "Fluorescent Pink",
+        [
+            "sketch"
+        ]
     ],
     "FV2": [
         "#915CC0",
         "#6C3AA4",
         "#54258C",
-        "Fluorescent Dull Violet"
+        "Fluorescent Dull Violet",
+        [
+            "sketch"
+        ]
     ],
     "FY1": [
         "#FEE96C",
         "#FDD136",
         "#FDC527",
-        "Fluorescent Yellow Orange"
+        "Fluorescent Yellow Orange",
+        [
+            "sketch"
+        ]
     ],
     "FYG1": [
         "#ECEE80",
         "#EEEA58",
         "#EDE923",
-        "Fluorescent Yellow"
+        "Fluorescent Yellow",
+        [
+            "sketch"
+        ]
     ],
     "FYG2": [
         "#B2CB47",
         "#7CAD15",
         "#569606",
-        "Fluorescent Dull Yellow Green"
+        "Fluorescent Dull Yellow Green",
+        [
+            "sketch"
+        ]
     ],
     "FYR1": [
         "#FDBB5C",
         "#FDA63A",
         "#FD8E1A",
-        "Fluorescent Orange"
+        "Fluorescent Orange",
+        [
+            "sketch"
+        ]
     ],
     "G00": [
         "#DFF7E9",
         "#CCF2DC",
         "#B4ECD1",
-        "Jade Green"
+        "Jade Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G000": [
         "#EBF8EC",
         "#D9F2DC",
         "#CCEFD3",
-        "Pale Green"
+        "Pale Green",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "G0000": [
         "#F0FBF1",
         "#E7F9ED",
         "#E0F7E7",
-        "Crystal Opal"
+        "Crystal Opal",
+        [
+            "sketch"
+        ]
     ],
     "G02": [
         "#A2DF9D",
         "#84CE80",
         "#70C176",
-        "Spectrum Green"
+        "Spectrum Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G03": [
         "#8CD696",
         "#70C380",
         "#5BB172",
-        "Meadow Green"
+        "Meadow Green",
+        [
+            "sketch"
+        ]
     ],
     "G05": [
         "#7ECFA8",
         "#5BAE87",
         "#54A47F",
-        "Emerald Green"
+        "Emerald Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G07": [
         "#60AC48",
         "#438838",
         "#377435",
-        "Nile Green"
+        "Nile Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G09": [
         "#5EAD76",
         "#509969",
         "#488B60",
-        "Veronese Green"
+        "Veronese Green",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "G12": [
         "#D4EBCA",
         "#BBDEB3",
         "#A4D3A5",
-        "Sea Green"
+        "Sea Green",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "G14": [
         "#99D7A9",
         "#78C089",
         "#62AC74",
-        "Apple Green"
+        "Apple Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G16": [
         "#62AD8F",
         "#4C8B72",
         "#427864",
-        "Malachite"
+        "Malachite",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "G17": [
         "#60AA9A",
         "#4F8F81",
         "#477B72",
-        "Forest Green"
+        "Forest Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G19": [
         "#349352",
         "#21713F",
         "#19502F",
-        "Bright Parrot Green"
+        "Bright Parrot Green",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "G20": [
         "#EEEAC8",
         "#EFE7B5",
         "#F1E59F",
-        "Wax White"
+        "Wax White",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "G21": [
         "#D2D49A",
         "#B2B773",
         "#9AA664",
-        "Lime Green"
+        "Lime Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G24": [
         "#AFAF6E",
         "#90944E",
         "#707E3D",
-        "Willow"
+        "Willow",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "G28": [
         "#4C683A",
         "#3D5833",
         "#2C422B",
-        "Ocean Green"
+        "Ocean Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G29": [
         "#70802D",
         "#5A6B2D",
         "#4B5D31",
-        "Pine Tree Green"
+        "Pine Tree Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G40": [
         "#EEEEC8",
         "#E8E9B3",
         "#D6E4A5",
-        "Dim Green"
+        "Dim Green",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "G43": [
         "#CADF98",
         "#B2D07C",
         "#9FC16A",
-        "Pistachio"
+        "Pistachio",
+        [
+            "sketch"
+        ]
     ],
     "G46": [
         "#83A577",
         "#6D8F68",
         "#5A7A5A",
-        "Mistletoe"
+        "Mistletoe",
+        [
+            "sketch"
+        ]
     ],
     "G82": [
         "#CCCD90",
         "#B8BD7A",
         "#95A665",
-        "Spring Dim Green"
+        "Spring Dim Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G85": [
         "#828055",
         "#74784E",
         "#4B5133",
-        "Verdigris"
+        "Verdigris",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "G94": [
         "#A4AE7E",
         "#7D8A60",
         "#6E7D59",
-        "Grayish Olive"
+        "Grayish Olive",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "G99": [
         "#808759",
         "#6F7A54",
         "#57614B",
-        "Olive"
+        "Olive",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "N-0": [
         "#EAECEA",
         "#DFE0E1",
         "#D3D5D8",
-        "Neutral Gray No. 0"
+        "Neutral Gray No. 0",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-1": [
         "#DEE0E2",
         "#C0C2C9",
         "#B7B9C1",
-        "Neutral Gray No. 1"
+        "Neutral Gray No. 1",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-10": [
         "#595E64",
         "#4D5258",
         "#484B52",
-        "Neutral Gray No. 10"
+        "Neutral Gray No. 10",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-2": [
         "#CFD2D7",
         "#BBBEC5",
         "#A8ABB2",
-        "Neutral Gray No. 2"
+        "Neutral Gray No. 2",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-3": [
         "#C1C4CB",
         "#ABAFB6",
         "#9B9FA8",
-        "Neutral Gray No. 3"
+        "Neutral Gray No. 3",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-4": [
         "#9CA0A8",
         "#868992",
         "#787B84",
-        "Neutral Gray No. 4"
+        "Neutral Gray No. 4",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-5": [
         "#80848D",
         "#6F737C",
         "#61656D",
-        "Neutral Gray No. 5"
+        "Neutral Gray No. 5",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-6": [
         "#696D75",
         "#5C6168",
         "#53585E",
-        "Neutral Gray No. 6"
+        "Neutral Gray No. 6",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-7": [
         "#5C6167",
         "#4D5158",
         "#484C52",
-        "Neutral Gray No. 7"
+        "Neutral Gray No. 7",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-8": [
         "#5A5E67",
         "#51555D",
         "#4A4D54",
-        "Neutral Gray No. 8"
+        "Neutral Gray No. 8",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "N-9": [
         "#585D63",
         "#4C5157",
         "#484B52",
-        "Neutral Gray No. 9"
+        "Neutral Gray No. 9",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "R00": [
         "#D9C7B5",
         "#DABBA0",
         "#DCB08E",
-        "Pinkish White"
+        "Pinkish White",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R000": [
         "#CAB6A4",
         "#CABAAA",
         "#CDAD92",
-        "Cherry White"
+        "Cherry White",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "R0000": [
         "#F9F8F2",
         "#F9F3E9",
         "#F8EDDF",
-        "Pink Beryl"
+        "Pink Beryl",
+        [
+            "sketch"
+        ]
     ],
     "R01": [
         "#D6B898",
         "#D6AF8A",
         "#D7A980",
-        "Pinkish Vanilla"
+        "Pinkish Vanilla",
+        [
+            "sketch"
+        ]
     ],
     "R02": [
         "#ECB083",
         "#EB9E6B",
         "#EC9B68",
-        "Rose Salmon"
+        "Rose Salmon",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R05": [
         "#D15A2E",
         "#CD4E1E",
         "#CA4813",
-        "Salmon Red"
+        "Salmon Red",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R08": [
         "#D24022",
         "#B82E14",
         "#B12D14",
-        "Vermilion"
+        "Vermilion",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "R11": [
         "#F8D4B6",
         "#F9C399",
         "#F9BA8B",
-        "Pale Cherry Pink"
+        "Pale Cherry Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R12": [
         "#EDC4A3",
         "#EBA376",
         "#EA9D6D",
-        "Light Tea Rose"
+        "Light Tea Rose",
+        [
+            "sketch"
+        ]
     ],
     "R14": [
         "#FE7E64",
         "#F96B4F",
         "#F25F42",
-        "Light Rouge"
+        "Light Rouge",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "R17": [
         "#ED4734",
         "#DE3C2B",
         "#CA2F21",
-        "Lipstick Orange"
+        "Lipstick Orange",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R20": [
         "#EBCBAE",
         "#E9B891",
         "#EAA983",
-        "Blush"
+        "Blush",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R21": [
         "#EEBCA3",
         "#EDAA8D",
         "#EEA080",
-        "Sardonyx"
+        "Sardonyx",
+        [
+            "sketch"
+        ]
     ],
     "R22": [
         "#F67F68",
         "#F27056",
         "#E9644A",
-        "Light Prawn"
+        "Light Prawn",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "R24": [
         "#EF6762",
         "#E35249",
         "#DC4F46",
-        "Prawn"
+        "Prawn",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "R27": [
         "#DB3C3B",
         "#CC3433",
         "#BE302E",
-        "Cadmium Red"
+        "Cadmium Red",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R29": [
         "#D22B3D",
         "#CA2637",
         "#B21E2C",
-        "Lipstick Red"
+        "Lipstick Red",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R30": [
         "#F7E3CC",
         "#FBD6B5",
         "#FDC8A2",
-        "Pale Yellowish Pink"
+        "Pale Yellowish Pink",
+        [
+            "sketch"
+        ]
     ],
     "R32": [
         "#F6B39B",
         "#F29173",
         "#F08768",
-        "Peach"
+        "Peach",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R35": [
         "#EF484E",
         "#E23B3F",
         "#CF2F31",
-        "Coral"
+        "Coral",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R37": [
         "#BE3E48",
         "#A73037",
         "#94292E",
-        "Carmine"
+        "Carmine",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R39": [
         "#923943",
         "#793037",
         "#63292E",
-        "Garnet"
+        "Garnet",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "R43": [
         "#FD9790",
         "#FD8775",
         "#FD8668",
-        "Bougainvillaea"
+        "Bougainvillaea",
+        [
+            "sketch"
+        ]
     ],
     "R46": [
         "#CD2B43",
         "#B32337",
         "#8E1627",
-        "Strong Red"
+        "Strong Red",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "R56": [
         "#AD5B60",
         "#853C3F",
         "#692D2D",
-        "Currant"
+        "Currant",
+        [
+            "sketch"
+        ]
     ],
     "R59": [
         "#822F35",
         "#662728",
         "#572526",
-        "Cardinal"
+        "Cardinal",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "R81": [
         "#E8B9C3",
         "#E4A1AD",
         "#E399A6",
-        "Rose Pink"
+        "Rose Pink",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "R83": [
         "#FEBDCE",
         "#FD9FB6",
         "#FD8AA2",
-        "Rose Mist"
+        "Rose Mist",
+        [
+            "sketch"
+        ]
     ],
     "R85": [
         "#CB636F",
         "#B0484F",
         "#94363A",
-        "Rose Red"
+        "Rose Red",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "R89": [
         "#631C23",
         "#481518",
         "#361415",
-        "Dark Red"
+        "Dark Red",
+        [
+            "sketch"
+        ]
     ],
     "RV00": [
         "#FDE5DB",
         "#FDD7CC",
         "#FDCCBD",
-        "Water Lily"
+        "Water Lily",
+        [
+            "sketch"
+        ]
     ],
     "RV000": [
         "#D1CAC1",
         "#D6C2B6",
         "#DAB8A9",
-        "Pale Purple"
+        "Pale Purple",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV0000": [
         "#FAF6F3",
         "#F9F1EF",
         "#FAECEC",
-        "Evening Primrose"
+        "Evening Primrose",
+        [
+            "sketch"
+        ]
     ],
     "RV02": [
         "#FDC8D7",
         "#FDABC1",
         "#FD97B1",
-        "Sugared Almond Pink"
+        "Sugared Almond Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV04": [
         "#FC5FBF",
         "#FA43A5",
         "#F93C9A",
-        "Shock Pink"
+        "Shock Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV06": [
         "#F646B0",
         "#F63397",
         "#F4267D",
-        "Cerise"
+        "Cerise",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV09": [
         "#E03270",
         "#D32C5F",
         "#C32752",
-        "Fuchsia"
+        "Fuchsia",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "RV10": [
         "#E9DCDB",
         "#F1D0CF",
         "#F5C4C3",
-        "Pale Pink"
+        "Pale Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV11": [
         "#F8BBBC",
         "#F2A5A3",
         "#E88F8B",
-        "Pink"
+        "Pink",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "RV13": [
         "#F1899A",
         "#EB6F78",
         "#E75D5E",
-        "Tender Pink"
+        "Tender Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV14": [
         "#E35B8B",
         "#DF4D73",
         "#D9415E",
-        "Begonia Pink"
+        "Begonia Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV17": [
         "#C8357E",
         "#B52563",
         "#9D1949",
-        "Deep Magenta"
+        "Deep Magenta",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "RV19": [
         "#C0346E",
         "#A82650",
         "#8A1A38",
-        "Red Violet"
+        "Red Violet",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "RV21": [
         "#FDBABE",
         "#FD9695",
         "#FD8D89",
-        "Light Pink"
+        "Light Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV23": [
         "#FDB2B4",
         "#FD9E9B",
         "#FD9286",
-        "Pure Pink"
+        "Pure Pink",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV25": [
         "#F865C2",
         "#F558B0",
         "#EF4C98",
-        "Dog Rose Flower"
+        "Dog Rose Flower",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "RV29": [
         "#E6516C",
         "#D94A5F",
         "#CA4554",
-        "Crimson"
+        "Crimson",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV32": [
         "#F6C3CD",
         "#F5BEC8",
         "#F0A0AC",
-        "Shadow Pink"
+        "Shadow Pink",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "RV34": [
         "#E06E8F",
         "#E17091",
         "#D96381",
-        "Dark Pink"
+        "Dark Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV42": [
         "#FCDFD0",
         "#FDCFBD",
         "#FDC0AD",
-        "Salmon Pink"
+        "Salmon Pink",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV52": [
         "#F9D4EE",
         "#F7C1E8",
         "#F2AFDF",
-        "Cotton Candy\u3000"
+        "Cotton Candy",
+        [
+            "sketch"
+        ]
     ],
     "RV55": [
         "#F494CB",
         "#EC79B3",
         "#E86AA3",
-        "Hollyhock"
+        "Hollyhock",
+        [
+            "sketch"
+        ]
     ],
     "RV63": [
         "#F5C0E6",
         "#EDA2D5",
         "#E796CD",
-        "Begonia"
+        "Begonia",
+        [
+            "sketch"
+        ]
     ],
     "RV66": [
         "#CE73AD",
         "#B95F93",
         "#A04F7C",
-        "Raspberry"
+        "Raspberry",
+        [
+            "sketch"
+        ]
     ],
     "RV69": [
         "#944A64",
         "#834556",
         "#6C444A",
-        "Peony"
+        "Peony",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV91": [
         "#EEE0DF",
         "#E5C9CD",
         "#E3C4C9",
-        "Grayish Cherry"
+        "Grayish Cherry",
+        [
+            "sketch"
+        ]
     ],
     "RV93": [
         "#E8D0D6",
         "#D9B5C0",
         "#C69DAB",
-        "Smoky Purple"
+        "Smoky Purple",
+        [
+            "sketch"
+        ]
     ],
     "RV95": [
         "#C68489",
         "#A9686C",
         "#8B5257",
-        "Baby Blossoms"
+        "Baby Blossoms",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "RV99": [
         "#4E2F33",
         "#311F21",
         "#23191A",
-        "Argyle Purple"
+        "Argyle Purple",
+        [
+            "sketch"
+        ]
     ],
     "T-0": [
         "#EEF1EA",
         "#E5E6E0",
         "#DADAD3",
-        "Toner Gray No. 0"
+        "Toner Gray No. 0",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-1": [
         "#E2E4DD",
         "#D6D7D1",
         "#C7C8C2",
-        "Toner Gray No. 1"
+        "Toner Gray No. 1",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-10": [
         "#5E5F64",
         "#47494E",
         "#47494E",
-        "Toner Gray No. 10"
+        "Toner Gray No. 10",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-2": [
         "#D4D5CF",
         "#C2C3BD",
         "#ACACA7",
-        "Toner Gray No. 2"
+        "Toner Gray No. 2",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-3": [
         "#BDBFBA",
         "#A6A7A4",
         "#8D8D8B",
-        "Toner Gray No. 3"
+        "Toner Gray No. 3",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-4": [
         "#A8A8A5",
         "#8F8F8D",
         "#797978",
-        "Toner Gray No. 4"
+        "Toner Gray No. 4",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-5": [
         "#909290",
         "#747676",
         "#676969",
-        "Toner Gray No. 5"
+        "Toner Gray No. 5",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-6": [
         "#767978",
         "#636668",
         "#515557",
-        "Toner Gray No. 6"
+        "Toner Gray No. 6",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-7": [
         "#6C6E6E",
         "#545759",
         "#474B4E",
-        "Toner Gray No. 7"
+        "Toner Gray No. 7",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-8": [
         "#595C5D",
         "#4E5255",
         "#474A4D",
-        "Toner Gray No. 8"
+        "Toner Gray No. 8",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "T-9": [
         "#595C61",
         "#505358",
         "#47494E",
-        "Toner Gray No. 9"
+        "Toner Gray No. 9",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "V000": [
         "#F7DEDC",
         "#F5C9C8",
         "#EFB5B6",
-        "Pale Heath"
+        "Pale Heath",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "V0000": [
         "#FAF5F4",
         "#F8EFF0",
         "#F7E7EB",
-        "Rose Quartz"
+        "Rose Quartz",
+        [
+            "sketch"
+        ]
     ],
     "V01": [
         "#FBB3BF",
         "#F6A6B3",
         "#EB97A6",
-        "Heath"
+        "Heath",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "V04": [
         "#DC72BA",
         "#D059AF",
         "#C249A6",
-        "Lilac"
+        "Lilac",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "V05": [
         "#F88ABB",
         "#F06EA2",
         "#E95C90",
-        "Azalea"
+        "Azalea",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "V06": [
         "#BA6891",
         "#98486E",
         "#7A3559",
-        "Lavender"
+        "Lavender",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "V09": [
         "#5A2C5A",
         "#341535",
         "#220A24",
-        "Violet"
+        "Violet",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "V12": [
         "#F0CBD1",
         "#E8A9B3",
         "#D58C9A",
-        "Pale Lilac"
+        "Pale Lilac",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "V15": [
         "#C1839C",
         "#AA6784",
         "#8F4D6F",
-        "Mallow"
+        "Mallow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "V17": [
         "#7C497A",
         "#592D5A",
         "#39183D",
-        "Amethyst"
+        "Amethyst",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "V20": [
         "#E3DADC",
         "#D5C1C6",
         "#C2ABB2",
-        "Wisteria"
+        "Wisteria",
+        [
+            "sketch"
+        ]
     ],
     "V22": [
         "#D7D2E4",
         "#C0B9D3",
         "#AEA6C3",
-        "Ash Lavender"
+        "Ash Lavender",
+        [
+            "sketch"
+        ]
     ],
     "V25": [
         "#987B91",
         "#7C5F75",
         "#5C4056",
-        "Pale Blackberry"
+        "Pale Blackberry",
+        [
+            "sketch"
+        ]
     ],
     "V28": [
         "#9A95B6",
         "#807D9D",
         "#686682",
-        "Eggplant"
+        "Eggplant",
+        [
+            "sketch"
+        ]
     ],
     "V91": [
         "#E4D3CE",
         "#D8B8B1",
         "#C9A19B",
-        "Pale Grape"
+        "Pale Grape",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "V93": [
         "#C6A59E",
         "#BC958E",
         "#A67872",
-        "Early Grape"
+        "Early Grape",
+        [
+            "sketch"
+        ]
     ],
     "V95": [
         "#B4868A",
         "#A1767A",
         "#8F6A6F",
-        "Light Grape"
+        "Light Grape",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "V99": [
         "#583D36",
         "#412D2D",
         "#322528",
-        "Aubergine"
+        "Aubergine",
+        [
+            "sketch"
+        ]
     ],
     "W-0": [
         "#EFF1E7",
         "#E9E9DD",
         "#E4E2D3",
-        "Warm Gray No. 0"
+        "Warm Gray No. 0",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "W-00": [
         "#F9FBF2",
         "#F3F4E6",
         "#EFEFDD",
-        "Warm Gray No. 00"
+        "Warm Gray No. 00",
+        [
+            "sketch"
+        ]
     ],
     "W-1": [
         "#EDEEE5",
         "#E4E3D6",
         "#DBD8CA",
-        "Warm Gray No. 1"
+        "Warm Gray No. 1",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "W-10": [
         "#5B5A57",
         "#4C4D4D",
         "#47484A",
-        "Warm Gray No. 10"
+        "Warm Gray No. 10",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "W-2": [
         "#E5E5DA",
         "#D2CEBE",
         "#C3BEAC",
-        "Warm Gray No. 2"
+        "Warm Gray No. 2",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "W-3": [
         "#D4D3C6",
         "#C0BDAE",
         "#B8B3A5",
-        "Warm Gray No. 3"
+        "Warm Gray No. 3",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "W-4": [
         "#BCB8A9",
         "#999486",
         "#8A8478",
-        "Warm Gray No. 4"
+        "Warm Gray No. 4",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "W-5": [
         "#AEAB9F",
         "#989489",
         "#7B776E",
-        "Warm Gray No. 5"
+        "Warm Gray No. 5",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "W-6": [
         "#8B887D",
         "#6C6964",
         "#615F5A",
-        "Warm Gray No. 6"
+        "Warm Gray No. 6",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "W-7": [
         "#75736C",
         "#605F5A",
         "#595955",
-        "Warm Gray No. 7"
+        "Warm Gray No. 7",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "W-8": [
         "#5F5F5B",
         "#515250",
         "#4B4D4C",
-        "Warm Gray No. 8"
+        "Warm Gray No. 8",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "W-9": [
         "#666560",
         "#585855",
         "#4B4C4C",
-        "Warm Gray No. 9"
+        "Warm Gray No. 9",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "Y00": [
         "#F0EDC8",
         "#F1E9AB",
         "#F3EAA7",
-        "Barium Yellow"
+        "Barium Yellow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y000": [
         "#F2F2D3",
         "#F3F2C5",
         "#F2F1BA",
-        "Pale Lemon"
+        "Pale Lemon",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y0000": [
         "#F8FBE1",
         "#F7FAD5",
         "#F7F9D1",
-        "Yellow Fluorite"
+        "Yellow Fluorite",
+        [
+            "sketch"
+        ]
     ],
     "Y02": [
         "#FCF27C",
         "#FEF055",
         "#FEED40",
-        "Canary Yellow"
+        "Canary Yellow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y04": [
         "#FEF473",
         "#FEEE4B",
         "#FEEA3C",
-        "Acacia"
+        "Acacia",
+        [
+            "sketch"
+        ]
     ],
     "Y06": [
         "#FEF339",
         "#FEF02C",
         "#FEEA04",
-        "Yellow"
+        "Yellow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y08": [
         "#FED90B",
         "#FEC702",
         "#FEBA02",
-        "Acid Yellow"
+        "Acid Yellow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y11": [
         "#FDF57C",
         "#FDEF54",
         "#FDE93E",
-        "Pale Yellow"
+        "Pale Yellow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y13": [
         "#F7ECA6",
         "#F7E58B",
         "#F7DD6A",
-        "Lemon Yellow"
+        "Lemon Yellow",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "Y15": [
         "#F7D35B",
         "#F5C03B",
         "#F3B02B",
-        "Cadmium Yellow"
+        "Cadmium Yellow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y17": [
         "#FECE3B",
         "#FDBF2A",
         "#FEAD1D",
-        "Golden Yellow"
+        "Golden Yellow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y18": [
         "#FED029",
         "#FDBC10",
         "#FEA609",
-        "Lightning Yellow"
+        "Lightning Yellow",
+        [
+            "sketch"
+        ]
     ],
     "Y19": [
         "#E6AE09",
         "#E49C05",
         "#E39104",
-        "Napoli Yellow"
+        "Napoli Yellow",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "Y21": [
         "#F2CD60",
         "#F2C249",
         "#F1B638",
-        "Buttercup Yellow"
+        "Buttercup Yellow",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y23": [
         "#E4B751",
         "#E3A73E",
         "#E5A034",
-        "Yellowish Beige"
+        "Yellowish Beige",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "Y26": [
         "#E3BC47",
         "#D7AB39",
         "#C7982C",
-        "Mustard"
+        "Mustard",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "Y28": [
         "#B0985A",
         "#9A8046",
         "#846934",
-        "Lionet Gold"
+        "Lionet Gold",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y32": [
         "#E9C96A",
         "#E8B650",
         "#E7A03C",
-        "Cashmere"
+        "Cashmere",
+        [
+            "sketch"
+        ]
     ],
     "Y35": [
         "#EBC414",
         "#EEB403",
         "#F29B02",
-        "Maize"
+        "Maize",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "Y38": [
         "#E8AC2B",
         "#EB9217",
         "#ED8718",
-        "Honey"
+        "Honey",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG00": [
         "#F2E182",
         "#ECD966",
         "#E9D643",
-        "Mimosa Yellow"
+        "Mimosa Yellow",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG0000": [
         "#F1E9C1",
         "#F2E6AF",
         "#F2E298",
-        "Lily White"
+        "Lily White",
+        [
+            "sketch"
+        ]
     ],
     "YG01": [
         "#F2E991",
         "#E1E457",
         "#CDE159",
-        "Green Bice"
+        "Green Bice",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YG03": [
         "#C8B754",
         "#ABA536",
         "#848C20",
-        "Yellow Green"
+        "Yellow Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG05": [
         "#DBF3AE",
         "#C9EE98",
         "#95D56C",
-        "Salad"
+        "Salad",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YG06": [
         "#C5F09D",
         "#ACE886",
         "#8BD975",
-        "Yellowish Green"
+        "Yellowish Green",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG07": [
         "#A3E194",
         "#87CF7D",
         "#68B366",
-        "Acid Green"
+        "Acid Green",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YG09": [
         "#9DDE9C",
         "#85D18A",
         "#6ABD79",
-        "Lettuce Green"
+        "Lettuce Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG11": [
         "#F0FAD7",
         "#E7F7BB",
         "#D1F19D",
-        "Mignonette"
+        "Mignonette",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG13": [
         "#C2E299",
         "#A5CD7F",
         "#8FBE6F",
-        "Chartreuse"
+        "Chartreuse",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YG17": [
         "#8EBC62",
         "#70A050",
         "#5E8D4B",
-        "Grass Green"
+        "Grass Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG21": [
         "#F7F6B2",
         "#F6F398",
         "#EEEB73",
-        "Anise"
+        "Anise",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YG23": [
         "#C2E1A1",
         "#ADD58F",
         "#A0CA83",
-        "New Leaf"
+        "New Leaf",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG25": [
         "#B5D65D",
         "#98BF4B",
         "#80AC43",
-        "Celadon Green"
+        "Celadon Green",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YG41": [
         "#C8EDB5",
         "#B2E49D",
         "#9EDA8C",
-        "Pale Cobalt Green"
+        "Pale Cobalt Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG45": [
         "#B7D2A1",
         "#99BB8A",
         "#7CA273",
-        "Cobalt Green"
+        "Cobalt Green",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YG61": [
         "#DFE9C3",
         "#CAD9A5",
         "#B5CB93",
-        "Pale Moss"
+        "Pale Moss",
+        [
+            "sketch"
+        ]
     ],
     "YG63": [
         "#B2C590",
         "#8FA46E",
         "#749160",
-        "Pea Green"
+        "Pea Green",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG67": [
         "#84AD62",
         "#678F50",
         "#547748",
-        "Moss"
+        "Moss",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG91": [
         "#C7B382",
         "#D0BD8C",
         "#B69F6C",
-        "Putty"
+        "Putty",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG93": [
         "#C8BF7F",
         "#B0A769",
         "#96975E",
-        "Grayish Yellow"
+        "Grayish Yellow",
+        [
+            "sketch"
+        ]
     ],
     "YG95": [
         "#C1B258",
         "#A79A47",
         "#90863F",
-        "Pale Olive"
+        "Pale Olive",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YG97": [
         "#8E894E",
         "#6E6C46",
         "#606345",
-        "Spanish Olive"
+        "Spanish Olive",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YG99": [
         "#7E8154",
         "#696F4C",
         "#575E46",
-        "Marine Green"
+        "Marine Green",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YR00": [
         "#EFC086",
         "#EDA96C",
         "#EC9658",
-        "Powder Pink"
+        "Powder Pink",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR000": [
         "#F6E6CE",
         "#FCD3AA",
         "#FDC999",
-        "Silk"
+        "Silk",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR0000": [
         "#FAF8EB",
         "#F9F2DF",
         "#FAECD0",
-        "Pale Chiffon"
+        "Pale Chiffon",
+        [
+            "sketch"
+        ]
     ],
     "YR01": [
         "#E0AF71",
         "#DE9C54",
         "#DD8B3A",
-        "Peach Puff"
+        "Peach Puff",
+        [
+            "sketch"
+        ]
     ],
     "YR02": [
         "#E79B5D",
         "#E68542",
         "#E67D39",
-        "Light Orange"
+        "Light Orange",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR04": [
         "#FDB633",
         "#FD9F23",
         "#FE891D",
-        "Chrome Orange"
+        "Chrome Orange",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR07": [
         "#F0722A",
         "#F06723",
         "#E85B21",
-        "Cadmium Orange"
+        "Cadmium Orange",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR09": [
         "#FE7052",
         "#FE5B43",
         "#FE5341",
-        "Chinese Orange"
+        "Chinese Orange",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YR12": [
         "#FEC96A",
         "#FDAF4A",
         "#FC9A3A",
-        "Loquat"
+        "Loquat",
+        [
+            "sketch"
+        ]
     ],
     "YR14": [
         "#F4C153",
         "#ECA139",
         "#DF8932",
-        "Caramel"
+        "Caramel",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YR15": [
         "#FEA92B",
         "#FE921A",
         "#FD8515",
-        "Pumpkin Yellow"
+        "Pumpkin Yellow",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR16": [
         "#FC991C",
         "#FD8B1A",
         "#FE811B",
-        "Apricot"
+        "Apricot",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR18": [
         "#EB6226",
         "#C14C1E",
         "#AB431D",
-        "Sanguine"
+        "Sanguine",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YR20": [
         "#F5D9A6",
         "#F9C67D",
         "#FABC70",
-        "Yellowish Shade"
+        "Yellowish Shade",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR21": [
         "#FCDB86",
         "#FCCA65",
         "#FDBC4E",
-        "Cream"
+        "Cream",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YR23": [
         "#F1C053",
         "#EDA639",
         "#E49129",
-        "Yellow Ochre"
+        "Yellow Ochre",
+        [
+            "classic",
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR24": [
         "#F5B941",
         "#E59B33",
         "#D18530",
-        "Pale Sepia"
+        "Pale Sepia",
+        [
+            "classic",
+            "sketch"
+        ]
     ],
     "YR27": [
         "#E18E50",
         "#CD7345",
         "#B86242",
-        "Tuscan Orange"
+        "Tuscan Orange",
+        [
+            "sketch"
+        ]
     ],
     "YR30": [
         "#EFEAD4",
         "#F1E6C3",
         "#F1E1B4",
-        "Macadamia nut"
+        "Macadamia nut",
+        [
+            "sketch"
+        ]
     ],
     "YR31": [
         "#E7CB72",
         "#EBBF4F",
         "#EDB23C",
-        "Light Reddish Yellow"
+        "Light Reddish Yellow",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR61": [
         "#FEDAB0",
         "#FEC791",
         "#FDAC6D",
-        "Spring Orange"
+        "Spring Orange",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR65": [
         "#FEB168",
         "#FE9C50",
         "#FE883C",
-        "Atoll"
+        "Atoll",
+        [
+            "sketch"
+        ]
     ],
     "YR68": [
         "#FD7A29",
         "#FE6C1C",
         "#FE5D0F",
-        "Orange"
+        "Orange",
+        [
+            "sketch",
+            "ciao"
+        ]
     ],
     "YR82": [
         "#FED8A6",
         "#FDC382",
         "#FDAD61",
-        "Mellow Peach"
+        "Mellow Peach",
+        [
+            "sketch"
+        ]
     ]
 }

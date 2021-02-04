@@ -21,7 +21,7 @@ def load_colors(fname='colors_plain.json'):
 img_dir = 'color_samples/'
 img_names = sorted(os.listdir(img_dir))
 
-colors = load_colors(fname='colors_plain.json')
+colors = load_colors(fname='colors_auto.json')
 
 for iname in img_names:
     print('Extracting from {}...'.format(iname))
@@ -46,11 +46,22 @@ for iname in img_names:
             img[:, int(i*nx/3)] = img.shape[0]*[[0, 0, 0]]
     cols = [rgb_to_hex(col) for col in cols]
     ccode = iname[:-4]
-    cname = colors[ccode][1]
-    colors[ccode] = [0, 0, 0, 0]
+
+    # Get color names
+    cname = colors[ccode][3]
+
+    # Get pen types of this color
+    try:
+        cseries = colors[ccode][4]
+    except IndexError:
+        cseries = ["sketch"]
+    if "sketch" not in cseries:
+        cseries.append("sketch")
+    colors[ccode] = [0, 0, 0, 0, 0]
     for i in range(3):
         colors[ccode][i] = cols[i]
     colors[ccode][3] = cname
+    colors[ccode][4] = cseries
     image.imsave("samples_annotated/{}".format(iname), img)
     # plt.imshow(img)
     # plt.show()
